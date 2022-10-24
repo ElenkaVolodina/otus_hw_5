@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../otus-demo-apigw/.idea/otus-demo-apigw.iml" filepath="$PROJECT_DIR$/../otus-demo-apigw/.idea/otus-demo-apigw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../otus_hw_2/.idea/otus_hw_2.iml" filepath="$PROJECT_DIR$/../otus_hw_2/.idea/otus_hw_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/otus_hw_5.iml" filepath="$PROJECT_DIR$/.idea/otus_hw_5.iml" />
+    </modules>
+  </component>
+</project>
